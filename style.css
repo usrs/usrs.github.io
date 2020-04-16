@@ -1,0 +1,74 @@
+    h1 {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 18pt;
+     color: cornflowerblue;
+    }
+
+    p {
+     font-family: monospace;
+    }
+
+    a {
+     text-decoration: none;
+    }
+
+    label {
+     display: inline-block;
+     clear: left;
+     width: 120px;
+     text-align: right;
+    }
+
+    input {
+     display: inline-block;
+    }
+
+    .nav-button {
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+     border-width: medium;
+     padding: 5px;
+     margin: 0.05%;
+     background-color: cornflowerblue;
+    }
+
+    .hero {
+     height: 590px;
+     width: auto;
+     margin: 2%;
+     background: center;
+     background-image: url(https://i.imgur.com/0KrW4QQ.jpg);
+     background-size: contain;
+     background-repeat: no-repeat;
+    }
+
+    .contact-hero {
+     height: 590px;
+     width: auto;
+     margin: 2%;
+     background: center;
+     background-image: url(https://i.imgur.com/NGd7ZwU.jpg);
+     background-size: contain;
+     background-repeat: no-repeat;
+    }
+
+    .hBlock {
+     background-color: rgb(192, 217, 250);
+     max-width: 50%;
+     padding: 1%;
+     margin: 2%;
+     float: left;
+    }
+
+    .vBlock {
+     display: inline-block;
+     background-color: lightgoldenrodyellow;
+     max-width: 38%;
+     padding: 1%;
+     margin: 2%;
+    }
+
+    .bigBlock {
+     font-family: monospace;
+     font-size: 14pt;
+    }
